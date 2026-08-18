@@ -6,7 +6,7 @@ B.Tech student at NIT Rourkela. Interested in Data Science, Machine Learning and
 
 ### Languages & Data
 
-- Python, SQL, JavaScript, TypeScript
+- Python, SQL
 
 ### Data Science & ML
 
@@ -14,7 +14,7 @@ B.Tech student at NIT Rourkela. Interested in Data Science, Machine Learning and
 
 ### AI
 
-- Deep Learning, NLP, LLMs, Generative AI
+- Machine Learning, Deep Learning, NLP, LLMs, Generative AI
 
 ### Web & Backend
 
