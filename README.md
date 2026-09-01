@@ -30,6 +30,14 @@ End-to-end churn analysis with saved ML artifacts, a Flask prediction API, and a
 
 [View Repository](https://github.com/ujjawal2003/churn-prediction)
 
+### NIFTY 50 Portfolio Risk Early-Warning System
+
+An end-to-end ML system that predicts the probability of a ≥5% portfolio drawdown within the next 10 trading days, with explainable risk signals and an interactive dashboard.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • SHAP • Streamlit • Jupyter Notebook • Joblib • Git/GitHub
+
+[View Repository](https://github.com/ujjawal2003/nifty50-portfolio-risk-system)
+
 ### Ledger — Prop Firm Trading Journal
 
 Next.js trading journal with Supabase authentication, PostgreSQL, storage, row-level security, and ledger/equity visualizations.
